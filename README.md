@@ -2,8 +2,8 @@
 
 This web application allows users to generate QR codes by providing data and specifying the size of the QR code. It is built with React.
 
-## Preview
-[Preview Site](https://harivignesh-33.github.io/qr_code/)
+
+## [Preview Site](https://harivignesh-33.github.io/qr_code/)
 ![qr-app](https://github.com/Harivignesh-33/Qr-code-Generator/assets/131459225/651f7cee-0320-4eaa-b8af-587fd1ff31d1) 
 ## 
 
