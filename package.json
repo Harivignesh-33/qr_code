@@ -1,7 +1,7 @@
 {
   "homepage": "https://Harivignesh-33.github.io/qr_code/",
   "name": "qr_code",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
