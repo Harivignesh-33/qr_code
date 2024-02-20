@@ -46,8 +46,8 @@ function downloadQr() {
             <button className="gen" onClick={generateQr} disabled={loading} >Generate QR Code</button>
             <button className="down" onClick={downloadQr}>Download QR Code</button>
         </div>
-        <p className="footer">Designed by <span>
-          Harivignesh..</span></p>
+        <p className="footer">Designed by <span><b>
+          Hari</b>..</span></p>
     </div>
   )
 }
