@@ -16,7 +16,9 @@ This web application allows users to generate QR codes by providing data and spe
 
 ## Technologies Used
 
+- JSX
 - React
+- API
 - QR Code generation library (e.g., qrcode.react)
 
 ## Usage
